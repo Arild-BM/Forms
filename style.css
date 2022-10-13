@@ -1,0 +1,44 @@
+body {
+    background-color: lightblue;
+}
+
+.p-data {
+    background: radial-gradient(rgb(253, 253, 139) 0%, lightblue 60%);
+}
+
+.o-data {
+    background: linear-gradient(lightblue 10%, lightgreen, lightblue 90%);
+}
+
+input {
+    border-radius: 5px;
+    background-color: antiquewhite;
+    
+}
+
+#size-output {
+    font-weight: bold;
+    padding: 4px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+}
+
+.grey {
+    background-color: grey;
+    color: white;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
